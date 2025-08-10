@@ -7,7 +7,7 @@ A ideia é aplicar cada capítulo estudado do livro "Grokking Algorithms"e enten
 - Cada capítulo será implementado em um projeto separado dentro da pasta `src`.
 - Nomes dos arquivos e pastas serão em inglês.
 - Commits e anotações serão feitos em português.
-- 
+
 ## Tecnologias
 - C#
 - .NET SDK
