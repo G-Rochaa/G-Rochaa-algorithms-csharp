@@ -1,7 +1,5 @@
 # Algorithms in C#
 
-# Algorithms in C#
-
 Este repositório contém implementações em **C#** de algoritmos estudados para prática e aprendizado.  
 A ideia é aplicar cada capítulo estudado do livro "Grokking Algorithms"e entender o funcionamento dos algoritmos passo a passo.
 
